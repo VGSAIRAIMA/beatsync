@@ -85,6 +85,29 @@ flowchart TD
 | Real-time communication | Socket.IO |
 | Payments | Razorpay |
 
+## OUTPUT
+
+## WEBSITE FOR DISTRIBUTORS
+
+<img width="1600" height="800" alt="WhatsApp Image 2026-11-16 at 19 57 44" src="https://github.com/user-attachments/assets/25ff0b08-5dbb-4165-ac13-3c5a0cce72bb" />
+
+<img width="1600" height="800" alt="WhatsApp Image 2026-11-16 at 19 57 43" src="https://github.com/user-attachments/assets/8321d2dc-ce1e-4f81-a7cb-10137fae0584" />
+
+
+
+## MOBILE APPLICATIONS FOR DELIVERY BOYS
+
+
+<img width="738" height="1600" alt="WhatsApp Image 2026-11-16 at 19 58 36" src="https://github.com/user-attachments/assets/460233da-9770-43eb-9f62-41fdc6b33ab7" />
+
+<img width="738" height="1600" alt="WhatsApp Image 2026-11-16 at 19 58 39" src="https://github.com/user-attachments/assets/abe0ad70-4c6f-441d-91ee-35e626c7633e" />
+
+<img width="738" height="1600" alt="WhatsApp Image 2026-11-16 at 19 58 37" src="https://github.com/user-attachments/assets/47f244c6-d6c9-4f2f-8e38-e5bbbd0ee8db" />
+
+<img width="738" height="1600" alt="WhatsApp Image 2026-11-16 at 19 58 38" src="https://github.com/user-attachments/assets/53c823f3-01f4-4638-ad74-3c63feca32ac" />
+
+
+
 ## Repository Structure
 
 ```text
